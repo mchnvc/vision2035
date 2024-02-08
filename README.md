@@ -4,7 +4,7 @@ We are witnessing a remarkable and enduring transformation - from where we progr
 
 As a firm at the forefront of machine intelligence, we recognize that by anticipating the "status quo" of more than a decade from now - rather than simply reacting to the present - we will be better equipped to identify and support startups that will yield significant returns for our investors while shaping a future of abundance.
 
-To crystallize our perspective, we present Vision 2035, a blueprint that guides our investment strategy. By sharing this roadmap with you, we aim to provide clarity on our long-term objectives and how they will contribute to creating value across multiple funds and for society as a whole. Some key elements from our vision:
+To crystallize our perspective, we present Vision 2035, a blueprint that guides our strategy. By sharing this roadmap with you, we aim to provide clarity on our long-term objectives and how they will contribute to creating value for society as a whole. Some key elements from our vision:
 
 + A ‘singularity’, or moment when machines will outperform humans collectively, will not only be achieved but within about a decade (our estimation is by 2035).
 + It will be emergent (suddenly reached) rather than targeted through dedicated development.
