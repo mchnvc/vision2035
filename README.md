@@ -18,7 +18,7 @@ To crystallize our perspective, we present Vision 2035, a blueprint that guides 
 
 We invite you to collaborate with us in shaping the emergent singularity and capturing its significant value. Your shared enthusiasm for this endeavor is appreciated, and we encourage you to join us through active engagement and support as we embark on a collective journey toward a future of abundance enabled by machine intelligence.
 
-[Click here](https://github.com/mchnvc/vision2035/blob/main/Machine%20Ventures%20Vision%202035_%20The%20Decade%20of%20Machine%20Intelligence.pdf) for the full version of our Vision 2035
+[Click here](https://github.com/mchnvc/vision2035/blob/main/Machine%20Ventures%20Vision%202035_%20The%20Decade%20of%20Machine%20Intelligence%20(OS).pdf) for the full version of our Vision 2035
 
 Sincerely,
 
